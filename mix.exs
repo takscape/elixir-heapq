@@ -6,6 +6,7 @@ defmodule Heapq.Mixfile do
      version: "0.0.1",
      elixir: ">= 1.0.0",
      description: "A Heap-based Priority Queue Implementation in Elixir.",
+     package: package,
      deps: deps]
   end
 
